@@ -1,1 +1,1 @@
-This is my 1st github commit using git bash from master branch
+This is my 1st github commit using git bash from attempt branch
